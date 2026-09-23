@@ -401,7 +401,7 @@ Guaranteed stable while `schema` is `wallet-cli.result.v1`:
 - exit-code mapping 0/1/2;
 - one-terminal-frame stdout discipline in JSON mode;
 - existing `error.code` values keep their meaning (new codes may be added);
-- canonical command ids and network ids (`tron:728126428`, `tron:3448148188`, `tron:2494104990`, `eip155:1`, `eip155:56`, `eip155:11155111`, `eip155:97`).
+- canonical command ids and network ids (`tron:728126428`, `tron:3448148188`, `tron:2494104990`, `eip155:1`, `eip155:56`, `eip155:11155111`, `eip155:97`, `eip155:8453`, `eip155:84532`).
 
 Network **aliases** are config, not contract: they can be re-pointed locally, so scripts should pass canonical ids.
 
